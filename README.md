@@ -4,4 +4,4 @@ this is a simple snake game application we play on nokia 101 in early 20's. this
 # Installation
 - its a simple webappliction installtion is very simple
 - Download/clone sourcecode
-- open index.html :snake:
+- open snake.html :snake:
